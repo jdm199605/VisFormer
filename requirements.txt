@@ -1,0 +1,8 @@
+plotly==5.9.0
+torchvision==0.13.1
+transformers==4.22.1
+numpy==1.23.1
+func_timeout==4.3.5
+pandas==1.4.4
+torch==1.12.1
+Pillow==9.2.0
